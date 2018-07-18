@@ -1,0 +1,1 @@
+# semc-tournament-manager-ri
